@@ -3,6 +3,6 @@ torchvision==0.7.0
 scipy==1.1.0
 progress
 CUDA
-CUDNN
 opencv-python
 scikit-image
+matplotlib

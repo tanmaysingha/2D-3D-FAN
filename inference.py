@@ -179,6 +179,6 @@ if __name__ == '__main__':
                 pts = landmark[i]
                 cv2.circle(img_in, (pts[0], pts[1]),5,(0,255,0), -1, 8)
                 cv2.putText(img_in,str(i),(pts[0],pts[1]),cv2.FONT_HERSHEY_SIMPLEX,0.5,(255,2555,255))
-        io.imsave('res.jpg',img_in)
+        io.imsave('prediction.jpg',img_in)
     else:
         print("FaceAlignment init error!")

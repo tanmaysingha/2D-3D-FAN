@@ -65,8 +65,9 @@ There are few Pytorch versions of 2D/3D FAN model in GitHub, but most of the rei
  ![multiple faces](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/multiple_faces.jpg?raw=true)
  
  # Citation
-{
+ 
 @inproceedings{bulat2017far,
+
   title={How far are we from solving the 2D \& 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)},
   author={Bulat, Adrian and Tzimiropoulos, Georgios},
   booktitle={International Conference on Computer Vision},

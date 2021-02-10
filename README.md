@@ -56,8 +56,13 @@ There are few Pytorch versions of 2D/3D FAN model in GitHub, but most of the rei
  ![2D landmarks](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/2D-results/2D-landmarks.jpg?raw=true)
  
  ## 3D facial landmarks
- ![3D landmarks](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/3D-landmarks.jpg?raw=true)
- (https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/3D_extreme_right.jpg?raw=true)
+ ![3D landmarks](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/3D_extreme_right.jpg?raw=true)
+ 
+ ## 3D facial landmarks with different facial expression
+ ![3D facial expression](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/3D-landmarks.jpg?raw=true)
+ 
+ ## 3D landmarks on multiple detected faces
+ ![multiple faces](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/multiple_faces.jpg?raw=true)
  
  # Citation
  

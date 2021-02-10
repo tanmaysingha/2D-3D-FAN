@@ -51,8 +51,8 @@ There are few Pytorch versions of 2D/3D FAN model in GitHub, but most of the rei
  
  5. Create a "Data" directory under the main project directory (2d-3D-FAN). If you want to train the model with large LS3D-W datasets, then Keep all the datasets and annotations under the "Data" directory.
  
- # Facial landmarks prediction by 2D- FAN
- (https://github.com/tanmaysingha/2D-3D-FAN/blob/main/2D-results/2D-landmarks.jpg?raw=true)
+ # Facial landmarks prediction by 2D/3D FAN
+ ![2D landmarks](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/2D-results/2D-landmarks.jpg?raw=true)
  
  # Citation
  

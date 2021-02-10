@@ -65,6 +65,7 @@ There are few Pytorch versions of 2D/3D FAN model in GitHub, but most of the rei
  ![multiple faces](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/3D-test-results/multiple_faces.jpg?raw=true)
  
  ## landmarks gif
+ ![original](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/original.gif?raw=true)
  ![gif](https://github.com/tanmaysingha/2D-3D-FAN/blob/main/landmarks.gif?raw=true)
  
  # Citation

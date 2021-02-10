@@ -71,4 +71,10 @@ There are few Pytorch versions of 2D/3D FAN model in GitHub, but most of the rei
   booktitle={International Conference on Computer Vision},
   year={2017}
 }
+
+# Acknowledgements
+* To the Research Office at Curtin to give an opportunity to work on this internship project.
+* To the project supervisors for their endless support and advice.
+* To the school of Spatial Sciences and School of Computing at Curtin for providing all necessary resources.
+* To all researchers who are directly or indirectly involved in the project.
  
